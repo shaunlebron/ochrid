@@ -138,7 +138,7 @@ main p {
 
 .four-dot {
     display: inline;
-    margin-right: .3rem;
+    margin: 0 .1em;
 }
 
 blockquote {
