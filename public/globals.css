@@ -103,6 +103,7 @@ main h1 {
 main h2 {
     font-family: var(--font-pt-serif-caption);
     text-align: center;
+    text-wrap: balance;
     border: none;
     position: relative;
 }
